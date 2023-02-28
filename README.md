@@ -3,7 +3,7 @@
 <h3 align="left">💫 About Me:</h3>
 🔭 Working as a Backend Developer at INVENTIONE.<br>
 📃 I'm an Analysis and Systems Development Student.<br>
-👀 Planning to .<br>
+👀 Preference for backend development, while also having solid frontend knowledge.<br>
 🌱 I’m currently learning SQL, Docker and Kubernetes.<br>
 
 
