@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h1 align="center">Hi 👋🏾, I'm Arthur</h1>
+<h3 align="center">A passionate junior backend developer from Brazil</h3>
 <h3 align="left">💫 About Me:</h3>
-🔭 I’m currently working on INVENTIONE.<br>🌱 I’m currently learning SQL, Docker and Kubernetes.<br>
+🔭 Working as a Backend Developer at INVENTIONE.<br>
+📃 I'm an Analysis and Systems Development Student.<br>
+👀 Planning to .<br>
+🌱 I’m currently learning SQL, Docker and Kubernetes.<br>
+
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
