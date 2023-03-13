@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Arthur!👋🏾</h1>
-<h3 align="center">A passionate junior backend developer from Brazil</h3>
+<h3 align="center">A passionate junior backend developer from Brazil.</h3>
 <h3 align="left">💫 About Me:</h3>
 🔭 Working as Backend Developer at INVENTIONE.<br>
 📃 I'm a student of Analysis and Systems Development.<br>
