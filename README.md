@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior backend developer from Brazil.</h3>
 <h3 align="left">💫 About Me:</h3>
 🔭 Working as Backend Developer at INVENTIONE.<br>
-🌳 Backend Dev at Project Root <br>
+🌳 Backend Dev at Project Root. <br>
 📃 I'm a student of Analysis and Systems Development.<br>
 👀 Preference for backend development, while also having solid frontend knowledge.<br>
 🌱 I’m currently learning SQL and Docker.<br>
