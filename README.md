@@ -8,7 +8,7 @@
 🌱 I’m currently learning SQL and Docker.<br>
 <h3 align="left">💻Languages and Tools:</h3>
 >> Front-end
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </p>
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
