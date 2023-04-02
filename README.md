@@ -5,7 +5,7 @@
 🌳 Backend Dev at Project Root. <br>
 📃 I'm a student of Analysis and Systems Development.<br>
 👀 Afinity for backend development, while also having solid frontend knowledge.<br>
-🌱 I’m currently learning SQL and Docker.<br>
+🌱 I’m currently learning Angular, SQL and Docker.<br>
 <h3 align="left">💻Technologies:</h3>
 <h4 align="left">- Backend</h4>
 
