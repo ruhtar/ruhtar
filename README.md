@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is Arthur!👋🏾</h1>
+<h1 align="center">Hi, my name is Arthur!👋🏾</h1>
 <h3 align="center">A passionate junior developer from Brazil.</h3>
 <h3 align="left">:star: About Me:</h3>
 🔭 Working as Backend Developer at INVENTIONE.<br>
