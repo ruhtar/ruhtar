@@ -4,7 +4,7 @@
 🔭 Working at the moment as Backend Developer at INVENTIONE.<br>
 🌳 Volunteer Backend Dev at Project Root. <br>
 📃 I'm a student of Analysis and Systems Development.<br>
-👀 Slight affinity for backend development, while also having solid frontend knowledge.<br>
+👀 Slight affinity for backend development, but at the moment, I'm exploring fullstack development.<br>
 🌱 I’m currently learning Angular.<br>
 <h3 align="left">💻Technologies:</h3>
 <h4 align="left">- Backend</h4>
