@@ -1,12 +1,12 @@
 <h1 align="center">Hi, my name is Arthur!👋🏾</h1>
 <h3 align="center">A passionate junior developer from Brazil.</h3>
-<h3 align="left">:star: About Me:</h3>
+<h3 align="left">:star:  About Me:</h3>
 🔭 Working at the moment as Backend Developer at INVENTIONE.<br>
 🌳 Volunteer Backend Dev at Project Root. <br>
 📃 I'm a student of Analysis and Systems Development.<br>
 👀 Slight affinity for backend development, but at the moment, I'm exploring fullstack development.<br>
 🌱 I’m currently learning Angular.<br>
-<h3 align="left">💻Technologies:</h3>
+<h3 align="left">💻 Technologies:</h3>
 <h4 align="left">- Backend</h4>
 
 ![C#](https://img.shields.io/badge/c%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
