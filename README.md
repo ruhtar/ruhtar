@@ -2,12 +2,12 @@
 <h3 align="center">A passionate junior developer from Brazil.</h3>
 
 ## About me :star:
-- 🔭 Currently working as a Fullstack Developer at Viasoft Korp.
+- 🗣️ Currently working as a Fullstack Developer at Viasoft Korp.
 - 🌳 Volunteer Backend Developer at Project Root.
-- 📃 Student of Analysis and Systems Development.
+- 🎓 Student of Analysis and Systems Development.
 - 👀 I have a strong inclination towards backend development, but I'm exploring fullstack development at the moment.
-- 📫 How to reach me **arthur.amorim10@gmail.com**
-- 🌱 Currently learning Angular.
+- 📫 How to reach me 👉🏿 **arthur.amorim10@gmail.com**
+- 🌱 Currently learning Angular and SQL.
 
 ## Technologies 💻
 ### Backend
