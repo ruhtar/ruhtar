@@ -6,6 +6,7 @@
 - 🌳 Volunteer Backend Developer at Project Root.
 - 📃 Student of Analysis and Systems Development.
 - 👀 I have a strong inclination towards backend development, but I'm exploring fullstack development at the moment.
+- 📫 How to reach me **arthur.amorim10@gmail.com**
 - 🌱 Currently learning Angular.
 
 ## Technologies 💻
