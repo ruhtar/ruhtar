@@ -31,6 +31,7 @@
 
 ## Socials 🌐
 <p align="left">
-<a href="https://twitter.com/404rthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arthur_https" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arthur-amorim-bs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-amorim-bs" height="30" width="40" /></a>
+  <a href="https://twitter.com/404rthur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arthur_https" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/arthur-amorim-bs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-amorim-bs" height="30" width="40" /></a>
+  <a href="mailto:arthur.amorim10@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="arthur.amorim10@gmail.com" height="30" width="40" /></a>
 </p>
