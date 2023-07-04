@@ -1,11 +1,11 @@
 <h1 align="center">Hi! My name is Arthur!👋🏾</h1>
 <h3 align="center">A passionate junior developer from Brazil.</h3>
 
-## About Me :star:
+## About me :star:
 - 🔭 Currently working as a Fullstack Developer at Viasoft Korp.
 - 🌳 Volunteer Backend Developer at Project Root.
 - 📃 Student of Analysis and Systems Development.
-- 👀 I have a slight affinity for backend development, but I'm currently exploring fullstack development.
+- 👀 I have a strong inclination towards backend development, but I'm exploring fullstack development at the moment.
 - 🌱 Currently learning Angular.
 
 ## Technologies 💻
@@ -29,6 +29,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Socials 🌐
-- [Twitter](https://twitter.com/404rthur)
-- [LinkedIn](https://linkedin.com/in/arthur-amorim-bs)
+<h3 align="left"> 🌐 Socials:</h3>
+<p align="left">
+<a href="https://twitter.com/404rthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arthur_https" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arthur-amorim-bs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-amorim-bs" height="30" width="40" /></a>
+</p>
