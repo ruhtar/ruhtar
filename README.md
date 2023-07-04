@@ -38,15 +38,8 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruhtar" alt="ruhtar" /></a> </p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/404rthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="404rthur" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhtar&show_icons=true&locale=en&layout=compact" alt="ruhtar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhtar&show_icons=true&locale=en" alt="ruhtar" /></p>
 
