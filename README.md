@@ -6,7 +6,7 @@
 - 🌳 Volunteer Backend Developer at Project Root.
 - 🎓 System Analysis and Development student.
 - 👀 I have a strong inclination towards backend development, but I'm exploring fullstack development at the moment.
-- 🌱 Currently learning Angular and SQL.
+- 🌱 Currently learning Angular and Authorization/Authentication.
 
 ## Technologies 💻
 ### Backend
