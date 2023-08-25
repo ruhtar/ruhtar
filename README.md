@@ -11,7 +11,7 @@
 ## Technologies 💻
 ### Backend
 ![C#](https://img.shields.io/badge/c%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Golang](https://img.shields.io/badge/golang-%231572B6.svg?style=for-the-badge&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
