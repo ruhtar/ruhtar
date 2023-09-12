@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Brazil.</h3>
 
 ## About me :star:
-- 🗣️ Currently working as a Fullstack Developer at Viasoft Korp.
+- 🗣️ Working as a Fullstack Developer at Viasoft Korp.
 - 🌳 Volunteer Backend Developer at Project Root.
 - 🎓 System Analysis and Development student.
 - 👀 I have a strong inclination towards backend development, but I'm exploring fullstack development at the moment.
