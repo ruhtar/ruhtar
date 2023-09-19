@@ -1,6 +1,4 @@
 <h1 align="center">Hi! My name is Arthur!👋🏾</h1>
-<h3 align="center">A passionate developer from Brazil.</h3>
-
 ## About me :star:
 - 🗣️ Working as a Fullstack Developer at Viasoft Korp.
 - 🌳 Volunteer Backend Developer at Project Root.
