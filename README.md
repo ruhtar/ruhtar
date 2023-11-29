@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Hello! My name is <strong>Arthur</strong>!👋🏾
+## Hi! My name is <strong>Arthur</strong>!👋🏾
 
 ## About me :star:
 - 🗣️ Working as a Fullstack Developer at Viasoft Korp.
