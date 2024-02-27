@@ -3,7 +3,7 @@
 ## Hi! My name is <strong>Arthur</strong>!👋🏾
 
 ## About me :star:
-- 🗣️ Working as a Fullstack Developer at Viasoft Korp.
+- 🗣️ Working as a Backend Developer at Protech.
 - 🌳 Volunteer Backend Developer at Project Root.
 - 🎓 System Analysis and Development student. 
 - 👀 I have a strong inclination towards backend development, but I'm exploring fullstack development at the moment.
