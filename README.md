@@ -4,17 +4,15 @@
 
 ## About me :star:
 - 🗣️ Working as a Backend Developer at Protech.
-- 🌳 Volunteer Backend Developer at Project Root.
+- 🌳 Currently building Mirai.
 - 🎓 System Analysis and Development student. 
-- 👀 I have a strong inclination towards backend development, but I'm exploring fullstack development at the moment.
-- 🌱 I am currently enhancing my frontend skills, primarily with Angular. Also learning Tests and Docker. 
+- 👀 I have a strong inclination towards backend development.
+- 🌱 I am currently enhancing my Tests and Docker skills. 
 
 ## Technologies 💻
 ### Backend
 ![C#](https://img.shields.io/badge/c%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
