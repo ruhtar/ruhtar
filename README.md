@@ -13,14 +13,11 @@
 ### Backend
 [![BackendSkills](https://skillicons.dev/icons?i=cs,go,dotnet,nodejs)](https://skillicons.dev)
 
-
 ### Frontend
-![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![ANGULAR](https://img.shields.io/badge/angular-CC2927.svg?style=for-the-badge&logo=angular&logoColor=white)
+[![FrontendSkills](https://skillicons.dev/icons?i=ts,html,css,angular)](https://skillicons.dev)
 
 ### Databases
+[![FrontendSkills](https://skillicons.dev/icons?i=ts,html,css,angular)](https://skillicons.dev)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-5C2D91?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
