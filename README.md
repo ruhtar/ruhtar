@@ -17,10 +17,9 @@
 [![FrontendSkills](https://skillicons.dev/icons?i=ts,html,css,angular)](https://skillicons.dev)
 
 ### Databases
-![SQLServer](https://img.shields.io/badge/SQL%20Server-5C2D91?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+[![DBSkills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" width=50px border-radius="40" />
+
 
 ## Socials 🌐
 <p align="left">
