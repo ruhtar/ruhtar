@@ -17,7 +17,6 @@
 [![FrontendSkills](https://skillicons.dev/icons?i=ts,html,css,angular)](https://skillicons.dev)
 
 ### Databases
-[![FrontendSkills](https://skillicons.dev/icons?i=ts,html,css,angular)](https://skillicons.dev)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-5C2D91?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
