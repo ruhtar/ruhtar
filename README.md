@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Hi! My name is <strong>Arthur</strong>!👋🏾
+## Sup! My name is <strong>Arthur</strong>👋🏾
 
-## About me :star:
+## About me 👨🏿‍💻
 - 🗣️ Working as a Backend Developer at Protech.
 - 🌳 Currently building Mirai.
 - 🎓 System Analysis and Development student. 
@@ -11,10 +11,8 @@
 
 ## Technologies 💻
 ### Backend
-![C#](https://img.shields.io/badge/c%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+[![BackendSkills](https://skillicons.dev/icons?i=cs,go,dotnet,nodejs)](https://skillicons.dev)
+
 
 ### Frontend
 ![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
