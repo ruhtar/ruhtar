@@ -27,3 +27,4 @@
 
 ## Socials 🌐
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arthur-amorim-bs)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:arthur.amorim10@gmail.com)
