@@ -5,7 +5,7 @@
 ## About me 👨🏿‍💻
 
 - 🗣️ Working as a Backend Developer at Protech.
-- 🌳 Currently building Mirai.
+- 🌳 Currently building Mirai and ProjeteMais.
 - 🎓 System Analysis and Development student. 
 - 👀 I have a strong inclination towards backend development.
 - 🌱 I am currently enhancing my Tests and Docker skills. 
