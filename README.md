@@ -1,8 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer" width="400px" align="right" style="margin-bottom: 20px;">
-
 # Sup! My name is <strong>Arthur</strong>👋🏾
 
-## About me 👨🏿‍💻
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer" width="400px" align="right" style="margin-bottom: 20px;">
+
+
+<br>
 
 - 🗣️ Working as a Backend Developer at Protech.
 - 👨🏿‍💻 Indie Hacker Wannabe.
@@ -10,7 +11,9 @@
 - 🎓 System Analysis and Development student (3/5). 
 - 👀 I have a strong inclination towards Backend development.
 - 🛠️ C# is my main language and I also have solid knowledge on Javascript/Typescript. 
-- 🌱 I am currently enhancing my Tests and Docker skills. 
+- 🌱 I am currently enhancing my Tests and Docker skills.
+
+<br>
 
 ## Technologies 💻
   
