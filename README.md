@@ -6,7 +6,6 @@
 <br>
 
 - 🗣️ Working as a Backend Developer at Protech.
-- 👨🏿‍💻 Indie Hacker Wannabe.
 - 🌳 Currently building Mirai and ProjeteMais.
 - 🎓 System Analysis and Development student (3/5). 
 - 👀 I have a strong inclination towards backend development while also possessing solid experience in frontend development.
