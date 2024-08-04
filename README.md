@@ -6,9 +6,9 @@
 <br>
 
 - 🗣️ Working as a Backend Developer at Protech.
-- 🎓 System Analysis and Development student (3/5). 
+- 🎓 System Analysis and Development student (4/5). 
 - 👀 I have a strong inclination towards backend development while also possessing solid experience in frontend development.
-- 🛠️ C# is my primary language, and I also have solid knowledge of Javascript/Typescript.
+- 🛠️ C# is my primary language, followed by having solid knowledge of Javascript/Typescript. I really like working with Golang.
 - 🌱 I am currently enhancing my NoSql and RabbitMQ skills.
 
 <br>
