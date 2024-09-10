@@ -5,11 +5,11 @@
 
 <br>
 
-- 🗣️ Working as a Backend Developer at Protech.
+- 🗣️ Working as a Backend Developer at Jotatei.
 - 🎓 System Analysis and Development student (4/5). 
 - 👀 I have a strong inclination towards backend development while also possessing solid experience in frontend development.
 - 🛠️ C# is my primary language, followed by having solid knowledge of Javascript/Typescript. Also, I really like working with Golang.
-- 🌱 I am currently enhancing my NoSql and RabbitMQ skills.
+- 🌱 I am currently enhancing my AWS skills.
 
 <br>
 <br>
